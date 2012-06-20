@@ -1,0 +1,36 @@
+EX2
+1. False
+2. true
+3.true
+4.true
+5.false
+6.true
+
+ EX3
+ 2
+2.5
+0
+3.5
+25
+25.0
+25.0
+0
+0.33333333333
+
+
+EX1
+X
+length
+NUMBER
+Android_phone1
+
+EX1B
+a is boolean
+b is float
+c is a string
+d is an integer
+e is a string
+f is an integer
+g ddesnt have any data type
+h is boolean
+i is a string
